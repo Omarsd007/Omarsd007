@@ -1,5 +1,13 @@
 [![Header](https://github.com/Omarsd007/omarsd007/blob/master/matrix.svg "Header")](https://some-url.dev/)
-[![Header](https://github.com/Omarsd007/omarsd007/blob/master/200w.webp "Header")](https://some-url.dev/)
+
+Hello, This is my Github, I am still developing it until it really is representing me, however I am human and I keep changing because I am alive.
+So I am still thinkning how can AI be aware of how we change? so to reflect that in the e-space...
+HCI is a subject that I love to explore...
+I have 3 Awesome kids whom I Love unconditionally, appearantly loving yourself and other is most of the times conditional...
+
+Do you remember Neo? I guess the green fun above might ring the bell...
+
+
 
 - 🔭 I’m currently working on Hack Your Future Coding Program started in March 2022
 - 🌱 I’m currently learning JS 
